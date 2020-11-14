@@ -1,0 +1,203 @@
+body{
+    background-color: #191C48
+    ;
+}
+div{
+    background-color: #424242;
+    position: absolute;
+}
+.devfest{
+    position: absolute;
+    right: 60px;
+    top:40px;
+    color: #F9AB00;
+    font-size: 2em;
+}
+.cont{
+    background-color: white;
+    width: 500px;
+    height: 320px;
+    position: absolute;
+  top: 60%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+    
+}
+.contorg{
+    background-color:#F9AB00;
+    width: 500px;
+    height: 25px;
+    position: absolute;
+  top: 39%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+    
+}
+.contgr{
+    background-color:green;
+    width: 13px;
+    height: 13px;
+    position: absolute;
+  top: 39%;
+  left: 33%;
+  transform: translate(-50%, -50%);
+   border-radius: 13px; 
+}
+.d1{
+ width: 60px;
+ height: 30px;
+ top: 50%;
+ left: 49.5%;
+}
+.d2{
+    width: 75px;
+    height: 37px;
+    top: 51%;
+    left: 49%;   
+}
+.d3{
+    width: 35px;
+    height: 55px;
+    top: 51%;
+    left: 49%; 
+}
+.d4{
+    width: 55px;
+    height: 10px;
+    top: 57.5%;
+    left: 49%; 
+}
+.d5{
+    width: 30px;
+    height: 90px;
+    top: 54%;
+    left: 49%;
+}
+.d6{
+    width: 40px;
+    height: 7px;
+    top: 61%;
+    left: 49%; 
+}
+.d7{
+    width: 7px;
+    height: 13px;
+    top: 61%;
+    left: 51.5%;
+}
+.d8{
+    width: 30px;
+    height: 62px;
+    top: 59%;
+    left: 48.5%;
+}
+.d9{
+    width: 20px;
+    height: 63px;
+    top: 60%;
+    left: 48%;
+}
+.d10{
+    width: 7px;
+    height: 57px;
+    top: 65%;
+    left: 48.5%;
+}
+.d11{
+    width: 15px;
+    height: 8px;
+    top: 72%;
+    left: 48.5%;
+}
+.d12{
+    width: 20px;
+    height: 45.5px;
+    top: 61%;
+    left: 47%;
+}
+.d13{
+    width: 15px;
+    height: 45.5px;
+    top: 62%;
+    left: 46.5%;
+}
+.d14{
+    width: 15px;
+    height: 45.5px;
+    top: 63%;
+    left: 46%;
+}
+.d15{
+    width: 7px;
+    height: 57px;
+    top: 65%;
+    left: 46.2%;
+}
+.d16{
+    width: 15px;
+    height: 8px;
+    top: 72%;
+    left: 46.2%;
+}
+.d17{
+    width: 15px;
+    height: 40px;
+    top: 63%;
+    left: 45.5%;
+}
+.d18{
+    width: 15px;
+    height: 41px;
+    top: 62%;
+    left: 44.8%;
+}
+.d19{
+    width: 15px;
+    height: 41px;
+    top: 61%;
+    left: 44.3%;
+}
+.d20{
+    width: 10px;
+    height: 43px;
+    top: 59%;
+    left: 44%;
+}
+.d21{
+    background-color: white;
+    width: 8px;
+    height: 8px;
+    top: 51%;
+    left: 50%; 
+    animation-name: eyeanim;
+    animation-iteration-count:infinite;
+    animation-duration: 1s;
+}
+@keyframes eyeanim{
+    from{top:51%;
+        height: 8px;}
+    to{top:51.5%;
+        height: 0.5px;}
+}
+
+.d22{
+    width: 60px;
+    height: 4px;
+    top: 70%;
+    left: 41%;
+  
+}
+.d23{
+    width: 60px;
+    height: 4px;
+    top: 70%;
+    left: 50%;
+  
+}
+.d24{
+    width: 20px;
+    height: 4px;
+    top: 72%;
+    left: 42%;
+  
+}
